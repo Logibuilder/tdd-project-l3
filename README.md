@@ -63,7 +63,7 @@ Puisque le projet est piloté par les tests, c'est la manière principale d'exé
 
 ## 👤 Auteur
 
-Ce projet a été réalisé par **[Assane KANE]** dans le cadre de la formation **Licence 3 Informatique**.
+Ce projet a été réalisé par **Assane KANE** dans le cadre de la formation **Licence 3 Informatique**.
 
 ---
 *Ce README démontre l'application des principes de développement logiciel agile et de l'ingénierie de test.*
